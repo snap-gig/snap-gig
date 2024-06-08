@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm [Gagan Soni] 👋
+# Hi, I'm Gagan Soni 👋
 
 Welcome to my GitHub! I'm a passionate Full Stack Developer with over four years of experience in backend-heavy full-stack development. My expertise lies in Node.js, Nest.js, React.js, and various database technologies. Here you'll find some of my personal projects, open-source contributions, and a showcase of my professional work.
 
@@ -74,9 +74,9 @@ An end-to-end solution for e-commerce grocery delivery with user, delivery, and 
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=snap-gig&show_icons=true&theme=radical)
 
 ## 📫 Get In Touch
 
-Feel free to reach out to me via [email](mailto:your.email@example.com) for any inquiries or collaboration opportunities.
+Feel free to reach out to me via [email](mailto:gagansoni0033@gmail.com) for any inquiries or collaboration opportunities.
 
