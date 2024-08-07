@@ -17,29 +17,29 @@ Here are some ideas to get you started:
 
 # Hi, I'm Gagan Soni 👋
 
-Welcome to my GitHub! I'm a passionate Full Stack Developer with over four years of experience in backend-heavy full-stack development. My expertise lies in Node.js, Nest.js, React.js, and various database technologies. Here you'll find some of my personal projects, open-source contributions, and a showcase of my professional work.
+Welcome to my GitHub! I'm a passionate Full Stack Developer with over 5 years of experience in backend-heavy full-stack development. My expertise lies in Node.js, Nest.js, React.js, and various database technologies. Here you'll find some of my personal projects, open-source contributions, and a showcase of my professional work.
 
 ## 🚀 About Me
 <!--
 - 🌐 Website: [Your Website] -->
-- 💼 LinkedIn: [Gagan Soni](https://www.linkedin.com/in/gaganswarnkar/)
+- 💼 LinkedIn: [Gagan Soni](https://www.linkedin.com/in/snap-gig/)
 - 📫 Email: [gagansoni0033@gmail.com](gagansoni0033@gmail.com)
 
 ## 🛠️ Skills & Technologies
 
 ### Backend Development
-- **Languages:** JavaScript, TypeScript
+- **Languages:** JavaScript, TypeScript, Java, Junit, Mockito
 - **Frameworks:** Node.js, Nest.js, Express.js, Hapi.js
 - **Databases:** MongoDB, PostgreSQL, MS SQL Server
 - **Architecture:** Microservices, Multitenancy
-- **Tools:** Docker, Kubernetes, Kafka, Redis
+- **Tools:** Docker, Kubernetes, Kafka, Redis, Datadog, 
 
 ### Frontend Development
 - **Languages:** HTML, CSS, JavaScript
 - **Libraries/Frameworks:** React.js
 
 ### DevOps & Cloud
-- **Platforms:** AWS, Azure, GCP
+- **Platforms:** AWS, Digital Ocean
 - **Tools:** Terraform, Docker, Kubernetes, CI/CD (Jenkins, GitHub Actions)
 
 ## 📚 Projects
